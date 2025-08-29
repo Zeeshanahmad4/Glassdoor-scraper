@@ -6,7 +6,7 @@ Glassdoor scraper built with Python and Selenium to extract reviews, job listing
   <a href="https://discord.gg/zX7frTbx">
     <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge">
   </a>
-  <a href="@devpilot1">
+  <a href="https://t.me/devpilot1">
     <img alt="Telegram contact" src="https://img.shields.io/badge/Telegram-Message-2CA5E0?logo=telegram&style=for-the-badge">
   </a>
   <a href="https://www.bitbash.dev/">
