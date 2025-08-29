@@ -70,6 +70,21 @@ Instead of wasting hours copying data manually, this scraper automates everythin
 -  **5x scalability** with Selenium automation  
 -  **99% accuracy** in structured JSON/CSV exports  
 
+## Contact  
+
+<p align="center">
+  <a href="https://t.me/devpilot1">
+    <img src="https://img.shields.io/badge/Telegram-@devpilot1-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/zX7frTbx">
+    <img src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.bitbash.dev/">
+    <img src="https://img.shields.io/badge/Website-BitBash.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+
 ##
 
 >Found this scraper useful? Star the repository and help others discover it!
