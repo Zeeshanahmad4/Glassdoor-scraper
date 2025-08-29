@@ -6,7 +6,7 @@ Glassdoor scraper built with Python and Selenium to extract reviews, job listing
   <a href="https://discord.gg/zX7frTbx">
     <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge">
   </a>
-  <a href="https://t.me/devpilot1">
+  <a href="@devpilot1">
     <img alt="Telegram contact" src="https://img.shields.io/badge/Telegram-Message-2CA5E0?logo=telegram&style=for-the-badge">
   </a>
   <a href="https://www.bitbash.dev/">
@@ -16,7 +16,7 @@ Glassdoor scraper built with Python and Selenium to extract reviews, job listing
 
 
 <p align="center">
-  <img alt="Glassdoor Scraper Banner" src="assets/banner.png" width="100%">
+  <img alt="Glassdoor Scraper Banner" src="glassdoor-banner.png" width="100%">
 </p>
 
 
@@ -39,11 +39,8 @@ Instead of wasting hours copying data manually, this scraper automates everythin
 ---
 ## :frame_with_picture: Demo Preview
 <p align="center">
-  <img alt="Demo Screenshot" src="assets/demo.png" width="80%">
+  <img alt="Demo Screenshot" src="glassdoor.png" width="80%">
 </p>
 ---
 ## :package: Installation
-```bash
-git clone https://github.com/yourusername/glassdoor-scraper-python.git
-cd glassdoor-scraper-python
-pip install -r requirements.txt
+
