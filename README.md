@@ -1,7 +1,5 @@
 #  Glassdoor Scraper – Python & Selenium
 
-Glassdoor scraper built with Python and Selenium to extract reviews, job listings, salaries, ratings, and company insights. Automates data collection into structured JSON/CSV formats for research, analysis, and market intelligence.
-
 <p align="center">
   <a href="https://discord.gg/zX7frTbx">
     <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge">
@@ -14,9 +12,10 @@ Glassdoor scraper built with Python and Selenium to extract reviews, job listing
   </a>
 </p>
 
+Glassdoor scraper built with Python and Selenium to extract reviews, job listings, salaries, ratings, and company insights. Automates data collection into structured JSON/CSV formats for research, analysis, and market intelligence.
 
 <p align="center">
-  <img alt="Glassdoor Scraper Banner" src="glassdoor-banner.png" width="100%">
+  <img alt="Glassdoor Scraper Banner" src="glassdoor-baner.png" width="100%">
 </p>
 
 
@@ -39,7 +38,7 @@ Instead of wasting hours copying data manually, this scraper automates everythin
 ---
 ## :frame_with_picture: Demo Preview
 <p align="center">
-  <img alt="Demo Screenshot" src="glassdoor.png" width="80%">
+  <img alt="Demo Screenshot" src="glassdoor-heroo.png" width="80%">
 </p>
 ---
 ## :package: Installation
